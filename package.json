@@ -1,5 +1,5 @@
 {
-    "name": "Shikimori",
+    "name": "Shikimori san by carl",
     "version": "3.0.0",
     "description": "A WhatsApp Bot With Rich Anime Features.",
     "main": "dist/chitoge.js",
@@ -23,9 +23,9 @@
     "author": "Synthesized Infinity, Shinei Ichijo & Fantox",
     "license": "AGPL-3.0",
     "bugs": {
-        "url": "https://github.com/FantoX001/Shikimori/issues"
+        "url": "https://github.com/R3tq5/Shikimori/issues"
     },
-    "homepage": "https://github.com/FantoX001/Shikimori#readme",
+    "homepage": "https://github.com/R3tq5/Shikimori#readme",
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/fs-extra": "^9.0.11",
